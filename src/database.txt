@@ -1,0 +1,19 @@
+States
+--------
+stateid pk
+statename
+
+city
+-----
+
+stateid fk
+cityid pk
+cityname
+
+Restaurant  
+-----------
+
+restaurant id pk 
+restaurantname
+mobileno
+email id
